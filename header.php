@@ -32,6 +32,7 @@
 		<!-- Drop Google Analytics here -->
 		<!-- end analytics -->
 		
+		<!-- Hammer JS -->
 		<script src="https://hammerjs.github.io/dist/hammer.js"></script>
 
 	</head>
